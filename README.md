@@ -12,7 +12,7 @@ Snapshots of the responsive auto layout are included to help reviewers and contr
 
 ## 🚀 Live Preview
 
-https://token-trading-table-dw24eeyqo-abhinav3289s-projects.vercel.app?_vercel_share=lNuHxmoSxAqUkY0dUth7laShhC3QFwyc
+https://token-trading-table-git-master-abhinav3289s-projects.vercel.app?_vercel_share=yz4GXjdhC3rRZ5qIeJgjenxMef3L2WP5
 
 ## 📍 Overview
 
