@@ -1,73 +1,57 @@
-# Welcome to your Lovable project
+# Token Trading Table
 
-## Project info
+A responsive and interactive token trading dashboard built with **React**, **TypeScript**, **Tailwind CSS**, and **Vite** — designed to display live token/crypto trading data inside a clean, auto-layout table that works down to **320px screen width**.
 
-**URL**: https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID
+Snapshots of the responsive auto layout are included to help reviewers and contributors understand the UI behavior.
 
-## How can I edit this code?
+-<img width="1826" height="861" alt="image" src="https://github.com/user-attachments/assets/093d3602-0195-4a0a-99f6-5f86e180debd" />
+--<img width="805" height="710" alt="image" src="https://github.com/user-attachments/assets/eaaa488a-c773-48bc-90b2-e89a13c9e7b9" /> "smaller screen
 
-There are several ways of editing your application.
 
-**Use Lovable**
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID) and start prompting.
 
-Changes made via Lovable will be committed automatically to this repo.
+## 🚀 Live Preview
 
-**Use your preferred IDE**
+https://token-trading-table-dw24eeyqo-abhinav3289s-projects.vercel.app/
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+## 📍 Overview
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+This project provides a **modern trading table component** that can be used to:
 
-Follow these steps:
+- Display token prices, volume, and other trading metrics
+- Handle responsive layouts for both mobile and desktop
+- Integrate with API endpoints or static JSON data
+- Serve as a UI reference for dashboards or trade monitors
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+This layout is fully responsive and adapts gracefully down to **320px width** with auto layout features. It’s perfect for desktop, tablet, and mobile usage.
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+---
 
-# Step 3: Install the necessary dependencies.
-npm i
+## 📌 Features
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
-```
+✔️ Fully responsive design down to **320px**  
+✔️ Auto-layout table for tokens with smooth resizing  
+✔️ Built with modern frontend tech (React, TypeScript, Tailwind CSS)  
+✔️ Fast development server with Vite  
+✔️ Clean and readable code for learning or reuse  
 
-**Edit a file directly in GitHub**
+---
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
+## 📁 Tech Stack
 
-**Use GitHub Codespaces**
+| Category | Tools |
+|----------|-------|
+| ⚛️ Frontend | React |
+| 🧠 Language | TypeScript |
+| 💨 Bundler | Vite |
+| 🎨 Styling | Tailwind CSS |
+| 📄 Markup | HTML |
+| 📊 Layout | Auto-layout responsive design |
 
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
+---
 
-## What technologies are used for this project?
+## 📸 Auto-Layout Snapshots
 
-This project is built with:
+> You can add screenshots below.  
+> Drag & drop images into your README editor on GitHub — and GitHub will generate the correct markdown.
 
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
-
-## How can I deploy this project?
-
-Simply open [Lovable](https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID) and click on Share -> Publish.
-
-## Can I connect a custom domain to my Lovable project?
-
-Yes, you can!
-
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/features/custom-domain#custom-domain)
