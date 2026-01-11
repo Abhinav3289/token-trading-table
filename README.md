@@ -12,7 +12,7 @@ Snapshots of the responsive auto layout are included to help reviewers and contr
 
 ## 🚀 Live Preview
 
-https://token-trading-table-dw24eeyqo-abhinav3289s-projects.vercel.app/
+https://token-trading-table-dw24eeyqo-abhinav3289s-projects.vercel.app?_vercel_share=lNuHxmoSxAqUkY0dUth7laShhC3QFwyc
 
 ## 📍 Overview
 
@@ -52,6 +52,9 @@ This layout is fully responsive and adapts gracefully down to **320px width** wi
 
 ## 📸 Auto-Layout Snapshots
 
-> You can add screenshots below.  
-> Drag & drop images into your README editor on GitHub — and GitHub will generate the correct markdown.
+"desktop view"
+<img width="1862" height="867" alt="image" src="https://github.com/user-attachments/assets/68f8c14c-08cb-41c3-a3b4-d712eaf7ebde" />
+
+"mobile view"
+<img width="540" height="1200" alt="image" src="https://github.com/user-attachments/assets/8105ad64-f501-4cb9-8332-5e479afe0020" />
 
